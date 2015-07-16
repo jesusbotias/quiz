@@ -1,0 +1,9 @@
+  npm install express-generator@4.9.0
+  node_modules/express-generator/bin/express --ejs quiz
+  cd quiz && npm install
+  cd quiz
+  git init
+  git add .
+  git commit -m "esqueleto espress-generator"
+  npm install
+  npm start
