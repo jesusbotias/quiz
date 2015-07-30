@@ -1,0 +1,500 @@
+   59  node_modules/express-generator/bin/express --ejs quiz
+   60  sudo node_modules/express-generator/bin/express --ejs quiz
+   61  ls
+   62  ls
+   63  git init
+   64  git add .
+   65  git add . -all
+   66  git add . --all
+   67  git log
+   68  sudo npm install
+   69  ls
+   70  cat package.json 
+   71  sudo npm start
+   72  cd www
+   73  ls
+   74  cd bin
+   75  ls
+   76  cat www
+   77  sudo npm
+   78  sudo npm start
+   79  cd ..
+   80  cd ..
+   81  ls
+   82  cd quiz
+   83  ls
+   84  ls
+   85  mkdir quiz
+   86  ls
+   87  cd quiz
+   88  ls
+   89  cd ..
+   90  node_modules/express-generator/bin/express --ejs quiz
+   91  cd qui
+   92  cd quiz
+   93  ls
+   94  node_modules/express-generator/bin/express --ejs quiz
+   95  cd ..
+   96  npm install express-generator@4.9.0
+   97  ls
+   98  cd quiz
+   99  ls
+  100  ls
+  101  cd ..
+  102  cd ..
+  103  ls
+  104  cd entregable6/
+  105  ls
+  106  ls
+  107  npm install express-generator@4.9.0
+  108  ls
+  109  node_modules/express-generator/bin/express --ejs quiz
+  110  ls
+  111  ls
+  112  cd node_modules/express-generator/bin/
+  113  ls
+  114  express --ejs quiz
+  115  sudo apt-get install node-express
+  116  cd ..
+  117  cd ..
+  118  cd ..
+  119  ls
+  120  node_modules/express-generator/bin/express --ejs quiz
+  121  ls
+  122  cd node_modules/
+  123  cd express-generator/
+  124  cd bin/
+  125  ls
+  126  express --ejs quiz
+  127  ls
+  128  rmdir -R quiz/º
+  129  rmdir -R quiz/
+  130  ls
+  131  cd quiz/
+  132  ls
+  133  cd ..
+  134  cd ..
+  135  ls
+  136  ls
+  137  cd ..
+  138  cd ..
+  139  cd ..
+  140  ls
+  141  cd ownCloud/
+  142  cd Curso_Desarrollo_de_servicios_en_la_nube_con_HTML5_node.js_y_JS/
+  143  ls
+  144  cd entregable6/
+  145  ls
+  146  node_modules/express-generator/bin/express --ejs quiz
+  147  ls
+  148  node_modules/express-generator/bin/express --ejs quiz
+  149  ls
+  150  cd node_modules/express-generator/bin/
+  151  ls
+  152  cd ..
+  153  cd ..
+  154  cd ..
+  155  sudo node_modules/express-generator/bin/express --ejs quiz
+  156  ls
+  157  express
+  158  express --ejs quiz
+  159  ls
+  160  cd quiz/
+  161  npm install
+  162  git init
+  163  git add .
+  164  sudo git init
+  165  sudo git add .
+  166  git log
+  167  sudo git log
+  168  sudo git commit -m "esqueleto express-generator"
+  169  git config --globat user.email jesus.botias@gmail.com
+  170  git config --global user.email jesus.botias@gmail.com
+  171  git config --global user.name jesusbotias
+  172  sudo git commit -m "esqueleto express-generator"
+  173  npm install
+  174  npm start
+  175  sudo npm install
+  176  sudo npm start
+  177  ls
+  178  git log
+  179  npm start
+  180  sudo aptitude install npm
+  181  npm start
+  182  sudo apt-get remove nodejs nodejs-dev npm
+  183  sudo sudo add-apt-repository ppa:chris-lea/node.js #or add-apt-repository ppa:richarvey/nodejs
+  184  sudo apt-get update
+  185  sudo apt-get install nodejs npm
+  186  sudo aptitude remove nodejs
+  187  sudo aptitude remove nnpm
+  188  sudo aptitude remove npm
+  189  sudo apt-get update
+  190  sudo apt-get install nodejs npm
+  191  nodejs
+  192  sudo apt-get install nodejs
+  193  npm start
+  194  man npm
+  195  sudo synaptic
+  196  sudo apt-get install -f
+  197  sudo aptitude install -f
+  198  sudo apt-get autoclean 
+  199  sudo apt-get autoremove 
+  200  ls
+  201  sudo synaptic
+  202  npm start
+  203  sudo npm start
+  204  sudo npm start -v
+  205  man npm
+  206  info npm
+  207  ls
+  208  cd ..
+  209  npm install express-generator@4.9.0
+  210  ls
+  211  cd quiz/
+  212  ls
+  213  git init
+  214  git add .
+  215  npm install
+  216  sudo npm install
+  217  ls
+  218  cat package.json 
+  219  git commit -m “esqueleto espress-generator"
+  220  git commit -m "esqueleto espress-generator"
+  221  sudo git commit -m "esqueleto espress-generator"
+  222  sudo git init
+  223  sudo git add --all
+  224  sudo git commit -m "esqueleto espress-generator"
+  225  sudo npm install
+  226  cd ..
+  227  node_modules/express-generator/bin/express --ejs quiz
+  228  ls
+  229  cd qu
+  230  cd quiz/
+  231  ls
+  232  npm  start
+  233  npm start
+  234  cat package.json 
+  235  cd ..
+  236  ls
+  237  rmdir quiz/
+  238  sudo rmdir quiz/
+  239  man rmdir
+  240  sudo rm quiz/
+  241  sudo rm -r quiz/
+  242  ls
+  243  npm install express-generator@4.9.0
+  244  node_modules/express-generator/bin/express --ejs quiz
+  245  ls
+  246  node_modules/express-generator/bin/express --ejs quiz
+  247  sudo apt-get install express
+  248  node_modules/express-generator/bin/express --ejs quiz
+  249  ls
+  250  sudo node_modules/express-generator/bin/express --ejs quiz
+  251  ls
+  252  ls
+  253  cd node_modules/
+  254  ls
+  255  cd express-generator/
+  256  ls
+  257  cd bin/
+  258  ls
+  259  express --ejs quiz ../../..
+  260  sudo apt-get install node-express
+  261  cd ..
+  262  cd ..
+  263  cd ..
+  264  ls
+  265  node_modules/express-generator/bin/express --ejs quiz
+  266  ls
+  267  cd node_modules/
+  268  ls
+  269  cd express-generator/
+  270  ls
+  271  cd bin/
+  272  ls
+  273  express --ejs quiz ../../..
+  274  express --ejs quiz /home/jesus/ownCloud/Curso_Desarrollo_de_servicios_en_la_nube_con_HTML5_node.js_y_JS/entregable6/
+  275  cd ..
+  276  cd ..
+  277  cd ..
+  278  ls
+  279  npm install
+  280  ls
+  281  git init
+  282  git add .
+  283  ls
+  284  git init
+  285  git add .
+  286  git commit -m “esqueleto espress-generator"
+  287  git commit -m "esqueleto espress-generator"
+  288  ls
+  289  npm install
+  290  npm start
+  291  exit
+  292   cd '/home/jesus/ownCloud/Curso_Desarrollo_de_servicios_en_la_nube_con_HTML5_node.js_y_JS'
+  293   cd '/home/jesus/ownCloud/Curso_Desarrollo_de_servicios_en_la_nube_con_HTML5_node.js_y_JS/mis_proyectos'
+  294   cd '/home/jesus/ownCloud/Curso_Desarrollo_de_servicios_en_la_nube_con_HTML5_node.js_y_JS/mis_proyectos/quiz'
+  295   cd '/home/jesus/ownCloud/Curso_Desarrollo_de_servicios_en_la_nube_con_HTML5_node.js_y_JS/mis_proyectos/quiz/bin'
+  296   cd '/home/jesus/ownCloud/Curso_Desarrollo_de_servicios_en_la_nube_con_HTML5_node.js_y_JS/mis_proyectos/quiz'
+  297   cd '/home/jesus/ownCloud/Curso_Desarrollo_de_servicios_en_la_nube_con_HTML5_node.js_y_JS/mis_proyectos/quiz/controllers'
+  298   cd '/home/jesus/ownCloud/Curso_Desarrollo_de_servicios_en_la_nube_con_HTML5_node.js_y_JS/mis_proyectos/quiz'
+  299   cd '/home/jesus/ownCloud/Curso_Desarrollo_de_servicios_en_la_nube_con_HTML5_node.js_y_JS/mis_proyectos/quiz/node_modules'
+  300   cd '/home/jesus/ownCloud/Curso_Desarrollo_de_servicios_en_la_nube_con_HTML5_node.js_y_JS/mis_proyectos/quiz'
+  301   cd '/home/jesus/ownCloud/Curso_Desarrollo_de_servicios_en_la_nube_con_HTML5_node.js_y_JS/mis_proyectos/quiz/routes'
+  302   cd '/home/jesus/ownCloud/Curso_Desarrollo_de_servicios_en_la_nube_con_HTML5_node.js_y_JS/mis_proyectos/quiz'
+  303   cd '/home/jesus/ownCloud/Curso_Desarrollo_de_servicios_en_la_nube_con_HTML5_node.js_y_JS/mis_proyectos/quiz/views'
+  304   cd '/home/jesus/ownCloud/Curso_Desarrollo_de_servicios_en_la_nube_con_HTML5_node.js_y_JS/mis_proyectos/quiz'
+  305   cd '/home/jesus/ownCloud/Curso_Desarrollo_de_servicios_en_la_nube_con_HTML5_node.js_y_JS/mis_proyectos'
+  306   cd '/home/jesus/ownCloud/Curso_Desarrollo_de_servicios_en_la_nube_con_HTML5_node.js_y_JS'
+  307   cd '/home/jesus/ownCloud/Curso_Desarrollo_de_servicios_en_la_nube_con_HTML5_node.js_y_JS/quiz'
+  308   cd '/home/jesus/ownCloud/Curso_Desarrollo_de_servicios_en_la_nube_con_HTML5_node.js_y_JS'
+  309   cd '/home/jesus/ownCloud/Curso_Desarrollo_de_servicios_en_la_nube_con_HTML5_node.js_y_JS/entregable6'
+  310   cd '/home/jesus/ownCloud/Curso_Desarrollo_de_servicios_en_la_nube_con_HTML5_node.js_y_JS/entregable6/node_modules'
+  311   cd '/home/jesus/ownCloud/Curso_Desarrollo_de_servicios_en_la_nube_con_HTML5_node.js_y_JS/entregable6/node_modules/express-generator'
+  312   cd '/home/jesus/ownCloud/Curso_Desarrollo_de_servicios_en_la_nube_con_HTML5_node.js_y_JS/entregable6/node_modules/express-generator/node_modules'
+  313   cd '/home/jesus/ownCloud/Curso_Desarrollo_de_servicios_en_la_nube_con_HTML5_node.js_y_JS/entregable6/node_modules/express-generator'
+  314   cd '/home/jesus/ownCloud/Curso_Desarrollo_de_servicios_en_la_nube_con_HTML5_node.js_y_JS/entregable6/node_modules/express-generator/bin'
+  315   cd '/home/jesus/ownCloud/Curso_Desarrollo_de_servicios_en_la_nube_con_HTML5_node.js_y_JS/entregable6/node_modules/express-generator'
+  316   cd '/home/jesus/ownCloud/Curso_Desarrollo_de_servicios_en_la_nube_con_HTML5_node.js_y_JS/entregable6/node_modules'
+  317   cd '/home/jesus/ownCloud/Curso_Desarrollo_de_servicios_en_la_nube_con_HTML5_node.js_y_JS/entregable6'
+  318   cd '/home/jesus/ownCloud/Curso_Desarrollo_de_servicios_en_la_nube_con_HTML5_node.js_y_JS'
+  319   cd '/home/jesus/ownCloud'
+  320   cd '/home/jesus/ownCloud/Curso_Desarrollo_de_servicios_en_la_nube_con_HTML5_node.js_y_JS'
+  321  ControlPanel 
+  322  sudo aptitude install rdesktop
+  323  exit
+  324  cd ownCloud/Curso_Desarrollo_de_servicios_en_la_nube_con_HTML5_node.js_y_JS/mis_proyectos/
+  325  history | cat pull
+  326  exit
+  327  cd ownCloud/Curso_Desarrollo_de_servicios_en_la_nube_con_HTML5_node.js_y_JS/mis_proyectos/
+  328  ls
+  329  ls -la
+  330  cd quiz/
+  331  ls
+  332  ls
+  333  cd routes/
+  334  ls
+  335  cd ..
+  336   cd '/home/jesus/ownCloud/Curso_Desarrollo_de_servicios_en_la_nube_con_HTML5_node.js_y_JS'
+  337  cd ownCloud/Curso_Desarrollo_de_servicios_en_la_nube_con_HTML5_node.js_y_JS/mis_proyectos/
+  338  ls
+  339  ls
+  340  npm install --save sequelize@1.7.0
+  341  cd quiz/
+  342  ls
+  343  ls
+  344  git init
+  345  git pull
+  346  ls
+  347  npm start
+  348  ls
+  349  npm install --save sequelize@1.7.0
+  350  npm install --save sqlite3@2.2.0
+  351  ls
+  352  cat package.json 
+  353  tree
+  354  sudo apt-get install tree
+  355  tree
+  356  ls
+  357  mkdir models
+  358  ls
+  359  cd models/
+  360  ls
+  361  atom quiz.js
+  362  cd ..
+  363  npm start
+  364  ls
+  365  cd models/
+  366  atom models.js
+  367  cd ..
+  368  npm start
+  369  npm start
+  370  ls
+  371  cd controllers/
+  372  ls
+  373  cd ..
+  374  npm start
+  375  npm start
+  376  npm start
+  377  npm start
+  378  npm start
+  379  npm start
+  380  clear
+  381  npm start
+  382  npm install sqlite3
+  383  npm start
+  384  ls
+  385  cat npm-debug.log 
+  386  clear
+  387  npm start
+  388  npm install sql
+  389  npm start
+  390  npm start
+  391  ls
+  392  npm start
+  393  npm start
+  394  npm start
+  395  npm start
+  396  npm install sequelice
+  397  npm start
+  398  npm start
+  399  npm start
+  400  npm start
+  401  npm start
+  402  git add .
+  403  git commit -m "Se añade sequelize.js y SQLite"
+  404  git log
+  405  npm start
+  406   cd '/home/jesus/ownCloud/Curso_Desarrollo_de_servicios_en_la_nube_con_HTML5_node.js_y_JS/entregable6/node_modules/express-generator'
+  407  cd ..
+  408  cd ..
+  409  cd ..
+  410  cd quiz
+  411  ls
+  412  ls
+  413  cd ..
+  414  ls
+  415  cd mis_proyectos/
+  416  ls
+  417  cd quiz/
+  418  ls
+  419  exit
+  420  LS
+  421  ls
+  422  cd ownCloud/Curso_Desarrollo_de_servicios_en_la_nube_con_HTML5_node.js_y_JS/mis_proyectos/quiz/
+  423  atom /
+  424  atom .
+  425  npm install --save pg
+  426  npm install --save pg
+  427  exit
+  428  cd ownCloud/Curso_Desarrollo_de_servicios_en_la_nube_con_HTML5_node.js_y_JS/mis_proyectos/quiz/
+  429  ls
+  430  cd ..
+  431  cd ..
+  432  ls
+  433  evince transp_modulo7.pdf &&
+  434  evince transp_modulo7.pdf
+  435  exit
+  436   cd '/home/jesus/ownCloud'
+  437   cd '/home/jesus/ownCloud/Curso_Desarrollo_de_servicios_en_la_nube_con_HTML5_node.js_y_JS'
+  438  ls
+  439  cd ownCloud/Curso_Desarrollo_de_servicios_en_la_nube_con_HTML5_node.js_y_JS/
+  440  cd mis_proyectos/quiz/
+  441  ls
+  442  npm start
+  443  atom models/
+  444  atom .
+  445  npm start
+  446  clear
+  447  npm start
+  448  clear
+  449  clear
+  450  npm start
+  451  npm start
+  452  DATABASE_URL="sqlite://:@:/" DATABASE_STORAGE=quiz.sqlite node bin/www
+  453  heroku addons:add heroku-postgresql:dev
+  454  sudo apt-get install heroky
+  455  sudo apt-get install heroku
+  456  sudo apt-cache search heroku
+  457  ls
+  458  which heroky
+  459  which heroku
+  460  heroky -version
+  461  heroku -version
+  462  wget -O- https://toolbelt.heroku.com/install-ubuntu.sh | sh
+  463  heroku --help
+  464  foreman --help
+  465  heroku login
+  466  heroku login
+  467  heroku open
+  468  npm start
+  469  npm install --save sequelize@1.7.0
+  470  npm install --save sqlite3@2.2.0
+  471  heroku addons:add heroku-postgresql:dev
+  472  heroku addon:docs heroku-postgresql
+  473  heroku pg:promote HEROKU_POSTGRESQL_GOLD_URL
+  474  sqlite3
+  475  npm install --save pg@4.1.1
+  476  npm install --save pg-hstore@2.3.2
+  477  cat .env 
+  478  foreman start
+  479  cat .gitignore 
+  480  heroku open --app quiz-jesusbotias-2015
+  481  heroku open --app quiz-2015-jesusbotias
+  482  heroku logs
+  483  foreman start
+  484  ls
+  485  rm quiz.sqlite
+  486  ls
+  487  foreman start
+  488  npm start
+  489  git add .
+  490  git log oneline
+  491  git log
+  492  foreman start
+  493  heroku stop
+  494  heroku restart
+  495  heroku apps
+  496  heroku open --app quiz-2015
+  497  heroku open --app quiz-2015-jesusbotias
+  498  cd ownCloud/Curso_Desarrollo_de_servicios_en_la_nube_con_HTML5_node.js_y_JS/mis_proyectos/quiz/
+  499  foreman start
+  500  ls
+  501  foreman start
+  502  ls
+  503  foreman
+  504  foreman start
+  505  npm install --save sequelize@1.7.0
+  506  npm install --save sqlite3@2.2.0
+  507  npm install --save pg@4.1.1
+  508  npm install --save pg-hstore@2.3.2
+  509  foreman start
+  510  npm start
+  511  foreman start
+  512  heroku login
+  513  heroku open --app quiz-2015-jesusbotias
+  514  foreman start
+  515  foreman --v
+  516  foreman version
+  517  man foreman
+  518  info foreman
+  519  sudo foreman start
+  520  sudo foreman start
+  521  npm start
+  522  cat .env
+  523  npm start
+  524  sudo foreman start
+  525  foreman start
+  526  foreman start
+  527  foreman start
+  528  node --version
+  529  node index.js
+  530  curl --silent --location https://deb.nodesource.com/setup_0.12 | sudo bash -
+  531  sudo apt-get install --yes nodejs
+  532  node --version
+  533  foreman start
+  534  clear
+  535  foreman start
+  536  foreman start
+  537  foreman start
+  538  foreman start
+  539  ls
+  540  foreman start
+  541  clear
+  542  foreman start
+  543  foreman start
+  544* 
+  545  foreman start
+  546  foreman start
+  547  foreman start
+  548  foreman start
+  549  foreman start
+  550  history > `date`.txt
+  551  date
+  552  man date
+  553  date -d
+  554  date --d
+  555  mab date
+  556  man date
+  557  date +"%m_%d_%Y"
+  558  history > `date +"%m_%d_%Y"`.txt

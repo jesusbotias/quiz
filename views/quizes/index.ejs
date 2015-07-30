@@ -1,0 +1,28 @@
+<form method="get" action="/quizes">
+  <p>Buscador de Preguntas:</p>
+  <input type="text" name="search" value="Texto a buscar">
+  <input type="submit" value="Buscar">
+</form>
+
+<p><br></p>
+<hr width=90% align="center">
+<p><br></p>
+
+<h3>Lista de Preguntas</h3>
+
+<p><%= textoresp %></p>
+
+<table>
+  <%
+  var i;
+  for (i=0; i < quizes.length; i++) {
+  %>
+       <tr>
+         <td align='left'>
+           <label><%= i %> - </label><a href='quizes/<%= quizes[i].id %>'><%= quizes[i].pregunta %></a>
+         </td>
+       </tr>
+  <%
+  }
+  %>
+</table>
