@@ -59,7 +59,7 @@ exports.show = function (req,res){
 exports.answer = function (req, res){
 
   //models.Quiz.find(req.params.quizId).then(function(quiz) {
-    if (req.query.respuesta === req.quiz.respuesta) {
+    if (req.query.respuesta.toLowerCase() === req.quiz.respuesta.toLowerCase()) {
       res.render('quizes/answer', { quiz: req.quiz, respuesta: 'Correcto'} );
     } else {
       res.render('quizes/answer', { quiz: req.quiz, respuesta: 'Incorrecto'} );
