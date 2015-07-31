@@ -13,12 +13,12 @@
   113  atom quiz_controllers.js
   114  cd ..
   115  atom controllers/quiz_controllers.js
-  116  atom routes/index.js 
+  116  atom routes/index.js
   117  ls
   118  cd views/
   119  ls
-  120  cat index.ejs 
-  121  atom index.ejs 
+  120  cat index.ejs
+  121  atom index.ejs
   122  cd ..
   123  ls
   124  git commit -a -m "Primera pregunta"
@@ -40,7 +40,7 @@
   140  ls
   141  cd controllers/
   142  ls
-  143  cat quiz_controllers.js 
+  143  cat quiz_controllers.js
   144  ls
   145  cd ..
   146  ls
@@ -63,18 +63,18 @@
   163  ls
   164  npm start
   165  ls
-  166  cat app.js 
+  166  cat app.js
   167  clear
   168  npm start
-  169  node bin/www 
-  170  node bin/www 
+  169  node bin/www
+  170  node bin/www
   171  git log --oneline
   172  npm install --save express-partials@0.3.0
   173  npm install --save express-partials
   174  ls
   175  atom
   176  git log --oneline
-  177  git commit -a -m 'Marco de la aplicación' 
+  177  git commit -a -m 'Marco de la aplicación'
   178  git log --oneline
   179  cd views/
   180  ls
@@ -87,11 +87,11 @@
   187  ls
   188  cd quiz/
   189  ls
-  190  atom views/layout.ejs 
+  190  atom views/layout.ejs
   191  ls
   192  cd public/stylesheets/
   193  ls
-  194  atom style.css 
+  194  atom style.css
   195  cd ..
   196  cd ..
   197  npm start
@@ -159,8 +159,8 @@
   259  npm start
   260  npm start
   261  ls
-  262  cat README.md 
-  263  atom README.md 
+  262  cat README.md
+  263  atom README.md
   264  npm start
   265  npm start
   266  npm start
@@ -217,7 +217,7 @@
   317  ls
   318  npm start
   319  ls
-  320  cat package.json 
+  320  cat package.json
   321  ls
   322  ls
   323  ls
@@ -256,7 +256,7 @@
   356  heroku login
   357  heroku logs
   358  heroku open --app quiz-2015-jesusbotias
-  359   
+  359
   360  npm start
   361  clear
   362  clear
@@ -278,13 +278,13 @@
   378  foreman start
   379  cd Escritorio/
   380  ls
-  381  sudo ./Preinstalacion_telefonos.sh 
-  382  sudo ./Preinstalacion_telefonos.sh 
+  381  sudo ./Preinstalacion_telefonos.sh
+  382  sudo ./Preinstalacion_telefonos.sh
   383  exit
   384  cd Escritorio/
-  385  sudo ./Preinstalacion_telefonos.sh 
-  386  cat Preinstalacion_telefonos.sh 
-  387  sudo ./Preinstalacion_telefonos.sh 
+  385  sudo ./Preinstalacion_telefonos.sh
+  386  cat Preinstalacion_telefonos.sh
+  387  sudo ./Preinstalacion_telefonos.sh
   388  cd ownCloud/
   389  cd Curso_Desarrollo_de_servicios_en_la_nube_con_HTML5_node.js_y_JS/
   390  ls
@@ -304,9 +304,9 @@
   404  foreman start
   405  npm install --save pg@4.1.1
   406  npm install --save pg-hstore@2.3.2
-  407  cat .env 
+  407  cat .env
   408  foreman start
-  409  cat .env 
+  409  cat .env
   410  foreman start
   411  foreman start
   412  foreman start
@@ -345,13 +345,13 @@
   445  foreman start
   446  exit
   447  cd Escritorio/
-  448  sudo ./Preinstalacion_telefonos.sh 
-  449  sudo ./Preinstalacion_telefonos.sh 
-  450  sudo ./Preinstalacion_telefonos.sh 
+  448  sudo ./Preinstalacion_telefonos.sh
+  449  sudo ./Preinstalacion_telefonos.sh
+  450  sudo ./Preinstalacion_telefonos.sh
   451  exit
   452  cd Escritorio/
   453  ls
-  454  sudo ./Preinstalacion_telefonos.sh 
+  454  sudo ./Preinstalacion_telefonos.sh
   455  exit
   456  ping 155.54.16.169
   457  cd ownCloud/
@@ -359,7 +359,7 @@
   459  ls
   460  cd Curso_Desarrollo_de_servicios_en_la_nube_con_HTML5_node.js_y_JS/
   461  ls
-  462  evince transp_modulo7.pdf 
+  462  evince transp_modulo7.pdf
   463  cd quiz
   464  ls
   465  foreman start
@@ -369,7 +369,7 @@
   469  foreman start
   470  clear
   471  foreman start
-  472  atom app.js 
+  472  atom app.js
   473  foreman start
   474  foreman start
   475  foreman start
@@ -402,8 +402,8 @@
   502  ls
   503  foreman start
   504  ls
-  505  del quiz.sqlite 
-  506  rm quiz.sqlite 
+  505  del quiz.sqlite
+  506  rm quiz.sqlite
   507  foreman start
   508  foreman start
   509  foreman start
@@ -414,7 +414,7 @@
   514  foreman start
   515  foreman start
   516  ls
-  517  rm quiz.sqlite 
+  517  rm quiz.sqlite
   518  foreman start
   519  git add .
   520  ls
@@ -426,10 +426,10 @@
   526  git add . --all
   527  git commit -m "Despliegue DB en Heroku con buscador"
   528  git branch
-  529  cat .gitignore 
+  529  cat .gitignore
   530  git push heroku origin
   531  ls
-  532  git log --oneline 
+  532  git log --oneline
   533  foreman start
   534  foreman start
   535  foreman start
@@ -446,8 +446,8 @@
   546  git push
   547  git push
   548  git push heroku master
-  549  cat .env 
-  550  cat .gitignore 
+  549  cat .env
+  550  cat .gitignore
   551  heroku login
   552  heroku logs
   553  heroku stop
@@ -484,11 +484,11 @@
   584  git add . --all
   585  git commit -m "Despliegue DB en Heroku 5"
   586  git push heroku master
-  587  cat .env 
-  588  cat .gitignore 
+  587  cat .env
+  588  cat .gitignore
   589  git rm -r node_modules/
   590  git commit -m "Borrado directorio node_modules"
-  591* 
+  591*
   592  git push origin master
   593  git push origin master
   594  git push heroku master
@@ -496,5 +496,5 @@
   596  ls
   597  foreman start
   598  ls
-  599  cat 07_29_2015.txt 
+  599  cat 07_29_2015.txt
   600  history > `date +"%m_%d_%Y"`.txt
