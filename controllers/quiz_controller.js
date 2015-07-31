@@ -2,7 +2,7 @@ var models = require('../models/models.js');
 
 // Autoload - factoriza el código si ruta incluye :quizId
 exports.load = function(req, res, next, quizId) {
-	models.Quiz.find(quizId).then(
+	models.Quiz.findById(quizId).then(
 		function(quiz) {
 			if(quiz) {
 				req.quiz = quiz;
@@ -99,10 +99,10 @@ exports.update = function(req, res) {
       } else {
         req.quiz     // save: guarda campos pregunta y respuesta en DB
         .save( {fields: ["pregunta", "respuesta", "tema"]})
-        .then( function(){ res.redirect('/quizes')})
+        .then( function(){ res.redirect('/quizes');});
       }     // Redirección HTTP a lista de preguntas (URL relativo)
     }
-  )
+  );
 };
 
 // DELETE /quizes/:id
