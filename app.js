@@ -47,7 +47,7 @@ app.use(function(req, res, next) {
 	if (req.session.user) {
 		if (Date.now() - req.session.user.lastRequestTime > 2*60*1000) {
 			delete req.session.user;
-			var errors = req.session.errors || 'Sesión caducada ...';
+			var errors = req.session.errors || 'Sesión caducada ....';
 			req.session.errors = {};
 
 			// Hacer visible req.session en las vistas
