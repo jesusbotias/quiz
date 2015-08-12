@@ -24,20 +24,49 @@ app.use(logger('dev'));
 app.use(bodyParser.json());
 //app.use(bodyParser.urlencoded({ extended: false }));
 app.use(bodyParser.urlencoded());
-app.use(cookieParser('Quiz 2015'));
-app.use(session());
+app.use(cookieParser('Quiz 2015'));   // Añade semilla "Quiz 2015" para cifrar cookie
+app.use(session());                   // Instalar MW session
 app.use(methodOverride('_method'));
 app.use(express.static(path.join(__dirname, 'public')));
 
-// Helper dinamicos:
-app.use(function(req, res, next){
-  // guardar path en session.redir para después de login
-  if (!req.path.match(/\/login|\/logout/)) {   // Paso 1c
+
+// Helpers dinamicos:
+app.use(function(req, res, next) {
+
+  // si no existe lo inicializa
+  if (!req.session.redir) {
+    req.session.redir = '/';
+  }
+  // guardar path en session.redir para despues de login
+  if (!req.path.match(/\/login|\/logout|\/user/)) {
     req.session.redir = req.path;
+    console.log("EALBUTR req.path = " + req.path);
   }
 
-  // Hacer visible req.session en las vistas
-  res.locals.session = req.session;              // Paso 1b
+	//Validar session timeout
+	if (req.session.user) {
+		if (Date.now() - req.session.user.lastRequestTime > 2*60*1000) {
+			delete req.session.user;
+			var errors = req.session.errors || 'Sesión caducada ...';
+			req.session.errors = {};
+
+			// Hacer visible req.session en las vistas
+  		res.locals.session = req.session;
+
+			res.render('sessions/new', {errors: errors});
+
+		} else {
+			req.session.user.lastRequestTime = Date.now();
+			// Hacer visible req.session en las vistas
+	  	res.locals.session = req.session;
+	  	next();
+		}
+
+	} else {
+	  // Hacer visible req.session en las vistas
+	  res.locals.session = req.session;
+	  next();
+	}
 });
 
 app.use('/', routes);
