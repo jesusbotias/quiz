@@ -31,7 +31,7 @@ var sequelize = new Sequelize(DB_name, user, pwd,
 );
 
 //Importar la definición de la tabla Quiz en quiz.js
-//var quiz_path = path.join(__dirname, 'quiz');
+var quiz_path = path.join(__dirname, 'quiz');
 var Quiz = sequelize.import(path.join(__dirname, 'quiz'));
 
 // Importar definición de la tabla Comment

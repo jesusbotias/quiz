@@ -7,11 +7,11 @@ exports.load = function(req, res, next, commentId) {
                 id: Number(commentId)
             }
         }).then(function(comment) {
-      if (comment) {
-        req.comment = comment;
-        next();
-      } else{next(new Error('No existe commentId=' + commentId))}
-    }
+                  if (comment) {
+                    req.comment = comment;
+                    next();
+                  } else{next(new Error('No existe commentId=' + commentId))}
+                }
   ).catch(function(error){next(error)});
 };
 
@@ -33,7 +33,7 @@ exports.create = function(req,res){
 			res.render('comments/new',{
 				comment: comment,
 				quizid: req.params.quizId,
-        quizpregunta: req.quiz.pregunta, 
+        quizpregunta: req.quiz.pregunta,
 				errors: error.errors
 			});
 		}else{
